@@ -1,5 +1,7 @@
 README
 
+BINP16 course project
+
 Program description:
 Automated insertion of hitDescriptions from a blastx file into the headers of a fasta file.
 The result is stored in an output file (text format).
